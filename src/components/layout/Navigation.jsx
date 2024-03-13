@@ -78,7 +78,7 @@ export const Navigation = () => {
                 <a href="dashboard" className="logo"><img src={curNaviWidth ? emblem : biImage} alt="logo" /></a>
                 <ul className='main_navi'>
                     <li>
-                        <a href={"/west-power-plant"} id={"dashboard"}>dashboard</a>
+                        <a href={"/cleverOps"} id={"dashboard"}>dashboard</a>
                     </li>
                     {leftNaviList && leftNaviList.map((item, index) => {
                         return (
