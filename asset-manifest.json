@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cleverOps/static/css/main.6631dd24.css",
-    "main.js": "/cleverOps/static/js/main.6ad1765b.js",
+    "main.js": "/cleverOps/static/js/main.74f07536.js",
     "static/media/login_bg.png": "/cleverOps/static/media/login_bg.48103d98916ff71bacdf.png",
     "static/media/NotoSans-SemiBold.woff": "/cleverOps/static/media/NotoSans-SemiBold.1970a460b3a3c4ff7bd9.woff",
     "static/media/NotoSans-Regular.woff": "/cleverOps/static/media/NotoSans-Regular.eec128be22a15563ff8e.woff",
@@ -88,10 +88,10 @@
     "static/media/status_stop.svg": "/cleverOps/static/media/status_stop.d773d76c86a313eff3b01502de5feba3.svg",
     "static/media/red_dot.svg": "/cleverOps/static/media/red_dot.750df300728be6ad41cc.svg",
     "main.6631dd24.css.map": "/cleverOps/static/css/main.6631dd24.css.map",
-    "main.6ad1765b.js.map": "/cleverOps/static/js/main.6ad1765b.js.map"
+    "main.74f07536.js.map": "/cleverOps/static/js/main.74f07536.js.map"
   },
   "entrypoints": [
     "static/css/main.6631dd24.css",
-    "static/js/main.6ad1765b.js"
+    "static/js/main.74f07536.js"
   ]
 }
